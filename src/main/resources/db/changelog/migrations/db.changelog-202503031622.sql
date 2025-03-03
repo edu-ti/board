@@ -1,5 +1,5 @@
 --liquibase formatted sql
---changeset eduardo:202503011606
+--changeset eduardo:202503031622
 --comment: boards table create
 
 
