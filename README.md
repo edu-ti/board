@@ -17,3 +17,4 @@
 
 ## Diagrama de classes
 
+![diagrama de class.png](src/img/diagrama%20de%20class.png)
